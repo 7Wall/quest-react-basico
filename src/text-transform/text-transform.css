@@ -1,0 +1,9 @@
+.textTransform {
+    background-color: #a04f2f;
+    padding: 20px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    border: solid 1px #000;
+    border-radius: 7px;
+}
